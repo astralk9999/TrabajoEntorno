@@ -7,7 +7,7 @@ public class Direccion {
    private int numero;
    /**
     * Crea una nueva dirección con los valores especificados.
-    *
+    * 
     * @param calle  Nombre de la calle.
     * @param ciudad Nombre de la ciudad.
     * @param numero Número de la dirección.
