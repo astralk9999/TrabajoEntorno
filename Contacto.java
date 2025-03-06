@@ -5,7 +5,7 @@ public class Contacto {
     private String nombre;
        private String telefono;
        private Direccion direccion;
-      /**
+      /**asaasasas
         * Constructor de la clase Contacto.
         * @param direccion Dirección del contacto.
         * @param nombre Nombre del contacto.
