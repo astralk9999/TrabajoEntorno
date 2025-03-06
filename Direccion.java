@@ -1,4 +1,4 @@
-/**
+/** no va
 * Representa una dirección postal con ciudad, calle y número.
 */
 public class Direccion {
