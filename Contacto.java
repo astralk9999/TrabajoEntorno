@@ -45,7 +45,7 @@ public class Contacto {
            if (nombre != null && nombre.matches("^[a-zA-Z]{3,50}$")) {
                this.nombre = nombre;
            } else {
-               throw new IllegalArgumentException("Nombre no válido");
+               throw new IllegalArgumentException("Nombre no válido"); 
            }
        }
       
