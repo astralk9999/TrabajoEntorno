@@ -10,7 +10,7 @@ public class main {
     * Muestra un menú de opciones y permite al usuario interactuar con el gestor.
     *
     * @param args Argumentos de la línea de comandos, no utilizados en este caso.
-    */
+    */ 
    public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
        GestorContactos gestor = new GestorContactos(); // Gestor que maneja los contactos
