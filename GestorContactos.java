@@ -34,7 +34,7 @@ public class GestorContactos {
   if (contacto != null) {
                 System.out.println("Contacto encontrado: " +   contacto.getNombre());
                //actualizamos los datos si econntamos al contacto
-                actualizarNombre(contacto, scanner);
+                actualizarNombre(contacto, scanner); 
                 actualizarTelefono(contacto, scanner);
                 actualizarDireccion(contacto, scanner);
                
