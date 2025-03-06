@@ -1,4 +1,4 @@
-/**
+/** 
 * Clase que representa un contacto con nombre, dirección y teléfono.
 */
 public class Contacto {
