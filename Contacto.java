@@ -10,7 +10,7 @@ public class Contacto {
 
         * Constructor de la clase Contacto.
 
-        * @param direccion Dirección del contacto
+        * @param direccion Dirección del contacto.
         * @param nombre Nombre del contacto.
         * @param telefono Teléfono del contacto.
         */
