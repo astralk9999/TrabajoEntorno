@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class main {
   
    /**
-    * Método principal que ejecuta el gestor de contactos.
+    * Método principal que ejecuta el gestor de contactos. 
     * Muestra un menú de opciones y permite al usuario interactuar con el gestor.
     *
     * @param args Argumentos de la línea de comandos, no utilizados en este caso.
