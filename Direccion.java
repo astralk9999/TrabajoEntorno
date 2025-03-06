@@ -68,7 +68,7 @@ public class Direccion {
        }
    }
    /**
-    * Establece el número de la dirección.
+    * Establece el número de la dirección. 
     *
     * @param numero El nuevo número de la dirección.
     */
