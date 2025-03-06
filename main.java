@@ -12,7 +12,7 @@ public class main {
     * @param args Argumentos de la línea de comandos, no utilizados en este caso.
     */ 
    public static void main(String[] args) {
-       Scanner sc = new Scanner(System.in);
+       Scanner sc = new Scanner(System.in); 
        GestorContactos gestor = new GestorContactos(); // Gestor que maneja los contactos
        while (true) {
            // Menú de opciones para el usuario
