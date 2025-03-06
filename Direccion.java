@@ -1,6 +1,6 @@
 /**
 * Representa una dirección postal con ciudad, calle y número.
-*/
+*/ 
 public class Direccion {
 	private String ciudad;
    private String calle;
