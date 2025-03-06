@@ -3,7 +3,7 @@
 */
 public class Direccion {
 	private String ciudad;
-   private String calle;
+   private String calle; 
    private int numero;
    /**
     * Crea una nueva dirección con los valores especificados.
