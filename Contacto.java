@@ -51,7 +51,7 @@ public class Contacto {
       
        public void setTelefono(String telefono) {
            if (telefono != null && telefono.matches("^\\d{9}$")) {
-               this.telefono = telefono;
+               this.telefono = telefono; 
            } else {
                throw new IllegalArgumentException("Teléfono no válido");
            }
