@@ -72,7 +72,7 @@ public class main {
                case 5:
                    // Salir del programa
                    System.out.println("Saliendo del gestor de contactos...");
-                   sc.close(); // Cierra el scanner
+                   sc.close(); // Cierra el scanner 
                    return; // Termina el programa
                default:
                    // Opción no válida
