@@ -6,7 +6,7 @@ public class Contacto {
        private String telefono;
        private Direccion direccion;
       /**
-        * Constructor de la clase Contacto. 
+        * Constructor de la clase Contacto.
         * @param direccion Dirección del contacto.
         * @param nombre Nombre del contacto.
         * @param telefono Teléfono del contacto.
@@ -18,7 +18,7 @@ public class Contacto {
        }
        /**
         * Obtiene el nombre del contacto.
-        * @return Nombre del contacto.
+        * @return Nombre del contacto. 
         */
        public String getNombre() {
            return nombre;
