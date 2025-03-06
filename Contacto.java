@@ -4,7 +4,7 @@
 public class Contacto {
     private String nombre;
        private String telefono;
-       private Direccion direccion;
+       private Direccion direccion; 
       /**
         * Constructor de la clase Contacto
 
