@@ -49,7 +49,7 @@ public class Direccion {
     */
    public void setCiudad(String ciudad) {
        if (ciudad != null && ciudad.matches("^[a-zA-Z\\s]{3,50}$")) {
-           this.ciudad = ciudad;
+           this.ciudad = ciudad; 
        } else {
            throw new IllegalArgumentException("Ciudad no válida");
        }
