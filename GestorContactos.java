@@ -98,7 +98,7 @@ public class GestorContactos {
                }
            }
            return null;
-       }
+       } 
        /**
         * Muestra en la consola la lista de contactos registrados.
         */
