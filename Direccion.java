@@ -9,7 +9,7 @@ public class Direccion {
     * Crea una nueva dirección con los valores especificados.
     * 
     * @param calle  Nombre de la calle.
-    * @param ciudad Nombre de la ciudad.
+    * @param ciudad Nombre de la ciudad.     
     * @param numero Número de la dirección.
     */
    public Direccion(String calle, String ciudad, int numero) {
