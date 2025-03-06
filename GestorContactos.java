@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.Scanner;
 /**
 * Clase GestorContactos que gestiona una lista de contactos.
-*/
+*/  
 public class GestorContactos {
     private List<Contacto> contactos;
     /**
