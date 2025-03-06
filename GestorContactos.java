@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class GestorContactos {
     private List<Contacto> contactos;
     /**
-        * Constructor que inicializa la lista de contactos.
+        * Constructor que inicializa la lista de contactos.   
         */
        public GestorContactos() {
            contactos = new ArrayList<>();
