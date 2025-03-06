@@ -14,7 +14,7 @@ public class GestorContactos {
        }
        /**
         * Agrega un nuevo contacto a la lista.
-        *
+        * 
         * @param contacto El contacto a agregar.
         */
        public void agregarContacto(Contacto contacto) {
