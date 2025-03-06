@@ -27,7 +27,7 @@ public class GestorContactos {
         */
      
        public void editarContacto(String telefono) {
-            Scanner scanner = new Scanner(System.in);
+            Scanner scanner = new Scanner(System.in); 
             Contacto contacto = buscarContactoPorTelefono(telefono);
            
           
