@@ -12,7 +12,7 @@ public class Contacto {
 
         * @param direccion Dirección del contacto.
         * @param nombre Nombre del contacto.
-        * @param telefono Teléfono del contacto.
+        * @param telefono Teléfono del contacto
         */
        public Contacto(Direccion direccion, String nombre, String telefono) {
            this.direccion = direccion;
