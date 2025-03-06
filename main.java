@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
-* Clase principal que ejecuta el programa del Gestor de Contactos.
+* Clase principal que ejecuta el programa del Gestor de Contactos. 
 * Proporciona un menú interactivo para agregar, editar, buscar y listar contactos.
 */
 public class main {
